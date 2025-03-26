@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/xpemlflow/mlruns/798127431600439669/6f3ab4a32aef4faab447c231e3b79316/artifacts
+end_time: 1743028304984
+entry_point_name: ''
+experiment_id: '798127431600439669'
+lifecycle_stage: active
+run_id: 6f3ab4a32aef4faab447c231e3b79316
+run_name: run_20250326_223140
+run_uuid: 6f3ab4a32aef4faab447c231e3b79316
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743028301120
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,6 @@
+artifact_location: file:///workspaces/xpemlflow/mlruns/798127431600439669
+creation_time: 1743028300940
+experiment_id: '798127431600439669'
+last_update_time: 1743028300940
+lifecycle_stage: active
+name: Iris_Classification_Experiment
